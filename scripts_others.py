@@ -59,5 +59,5 @@ elif element == min(array):
 else:
     verification_index = index_entered_number - 1
 print(f"Предшествующий числу {element} индекс равен", verification_index)
-
+#t_17.9.1
 
